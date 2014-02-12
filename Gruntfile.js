@@ -20,7 +20,7 @@ module.exports = function(grunt) {
             },
             dist: {
                 src: ['src/core.js'],
-                dest: 'github-embeds.js',
+                dest: 'file-embeds.js',
             },
         },
         uglify: {
@@ -35,7 +35,7 @@ module.exports = function(grunt) {
             },
             my_target: {
                 files: {
-                    'github-embeds.min.js': ['src/core.js']
+                    'file-embeds.min.js': ['src/core.js']
                 },
             },
         },

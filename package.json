@@ -1,8 +1,8 @@
 {
-  "name": "github-embeds",
-  "description": "Javascript library that embeds GitHub files",
+  "name": "file-embeds",
+  "description": "Javascript library that embeds code files",
   "version": "0.0.1",
-  "homepage": "https://github.com/ahluntang/github-embeds",
+  "homepage": "https://github.com/ahluntang/file-embeds",
   "author": {
     "name": "Ah-Lun Tang",
     "email": "tang@ahlun.be",

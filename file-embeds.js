@@ -1,5 +1,5 @@
 /*!
- * github-embeds - v0.0.1 - 2014-02-12 
+ * file-embeds - v0.0.1 - 2014-02-12 
  * Copyright (c) 2014 Ah-Lun Tang <tang@ahlun.be>
  * 
  * License: The MIT License (MIT) -  http://ahluntang.mit-license.org/

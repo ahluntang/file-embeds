@@ -5,8 +5,8 @@
 Javascript library that embeds GitHub files in a `<pre><code>  </code></pre>` tags using the GitHub API.
 Can also embed non-GitHub files.
 
-I was inspired by the clean file inclusion plugin Lea Verou made for prism. 
-This code reuses the structure of that plugin but has a special case for GitHub links.
+I was inspired by the clean file inclusion plugin Lea Verou made for prism.
+This code reuses the structure of that plugin but has a special case for GitHub links because files from GitHub needs to be fetched through the GitHub API.
 
 ## Usage
 
@@ -24,8 +24,8 @@ Add a link to your GitHub file using the `data-src` attribute in the pre tag.
 
 ## Credits
 
-Thanks to Lea Verou for making prism. Check prism for syntax highlighting.
+Thanks to [Lea Verou](http://lea.verou.me/) for making [prism](http://prismjs.com/). Check prism for syntax highlighting.
 
 ## Contribute
 
-If there are any problems or suggestions, don't hesitate to create an issue or send a pull request.
+If there are any problems or suggestions, don't hesitate to create an [issue](https://github.com/ahluntang/github-embeds/issues) or send a [pull request](https://github.com/ahluntang/github-embeds/pulls).

@@ -1,0 +1,20 @@
+{
+  "name": "github-embeds",
+  "description": "Javascript library that embeds GitHub files",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ahluntang/github-embeds",
+  "author": {
+    "name": "Ah-Lun Tang",
+    "email": "tang@ahlun.be",
+    "url": "http://ahlun.be/"
+  },
+  "license": {
+    "type": "The MIT License (MIT)",
+    "url": "http://ahluntang.mit-license.org/"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.3.2"
+  }
+}

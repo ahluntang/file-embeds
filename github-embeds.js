@@ -51,8 +51,6 @@ if (!self.document || !document.querySelector) {
                 
                 if (xhr.status < 400 && xhr.responseText) {
                     code.textContent = xhr.responseText;
-                
-                    Prism.highlightElement(code);
                 }
                 else if (xhr.status >= 400) {
                     code.textContent = ' Error ' + xhr.status + ' while fetching file: ' + xhr.statusText;

@@ -2,7 +2,7 @@
 
 ## About
 
-Javascript library that embeds GitHub files in a `<pre><code>  </code></pre>` tags using the GitHub API.
+Javascript library that embeds GitHub files in a `<pre><code>  </code></pre>` tags using the GitHub API as in some cases GitHub blocks javascript fetching through raw.github.com.
 Can also embed non-GitHub files.
 
 I was inspired by the clean file inclusion plugin Lea Verou made for prism.

@@ -5,7 +5,7 @@
 Javascript library that embeds code files in a `<pre><code>  </code></pre>` tags.
 It also detects GitHub links and uses the GitHub API.
 
-**NOTE:** in some cases GitHub blocks javascript file fetching through raw.github.com. In that case, use the link as shown in the usage section.
+**NOTE:** in some cases GitHub blocks javascript file fetching through raw.github.com. In that case, use the link from the main GitHub domain as shown in the usage section.
 
 I was inspired by the clean file inclusion plugin Lea Verou made for prism.
 This code reuses the structure of that plugin but has a special case for GitHub links because files from GitHub needs to be fetched through the GitHub API.
